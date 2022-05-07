@@ -1,20 +1,19 @@
 {
-  "varible_tipo": 
-      {
-          "texto": {
-              "type": "text",
-              "maxlength": "",
-              "id":"id_texto"
-          },
-          "numerico": {
-              "type": "number",
-              "maxlength": "",
-              "id":"id_numerico"
-          }
-      },
- 
-  "cliente": {
-      "nombre": "",
-      "edad": ""
-  }
+    "titulo": "Animos que si se puede",
+    "varible_tipo": [
+        {
+            "texto": {
+                "type": "text",
+                "maxlength": ""
+            },
+            "numerico": {
+                "type": "number",
+                "maxlength": ""
+            }
+        }
+    ],
+    "cliente": {
+        "nombre": "",
+        "edad": ""
+    }
 }
