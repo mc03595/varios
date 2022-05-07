@@ -4,16 +4,18 @@
         {
             "texto": {
                 "type": "text",
-                "maxlength": ""
+                "maxlength": "150",
+                "placeholder": "Aqui va la cosa"
             },
             "numerico": {
                 "type": "number",
-                "maxlength": ""
+                "maxlength": "300",
+                "placeholder": "Aqui va el numero"
             }
         }
     ],
     "cliente": {
-        "nombre": "",
-        "edad": ""
+        "nombre": "Roraima Lugo de Moya :)",
+        "edad": "35 y mas feliz que nunca"
     }
 }
