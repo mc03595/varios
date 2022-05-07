@@ -1,0 +1,20 @@
+{
+  "varible_tipo": 
+      {
+          "texto": {
+              "type": "text",
+              "maxlength": "",
+              "id":"id_texto"
+          },
+          "numerico": {
+              "type": "number",
+              "maxlength": "",
+              "id":"id_numerico"
+          }
+      },
+ 
+  "cliente": {
+      "nombre": "",
+      "edad": ""
+  }
+}
