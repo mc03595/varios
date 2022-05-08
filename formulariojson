@@ -1,21 +1,15 @@
 {
     "titulo": "Animos que si se puede",
-    "varible_tipo": [
-        {
-            "texto": {
-                "type": "text",
-                "maxlength": "150",
-                "placeholder": "Aqui va la cosa"
-            }
-        },
-        {
-            "numerico": {
-                "type": "number",
-                "maxlength": "300",
-                "placeholder": "Aqui va el numero"
-            }
-        }
-    ],
+    "texto": {
+        "type": "text",
+        "maxlength": "150",
+        "placeholder": "Aqui va la cosa"
+    },
+    "numerico": {
+        "type": "number",
+        "maxlength": "300",
+        "placeholder": "Aqui va el numero"
+    },
     "cliente": {
         "nombre": "Roraima Lugo de Moya :)",
         "edad": "35 y mas feliz que nunca"
