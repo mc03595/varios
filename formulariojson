@@ -6,7 +6,9 @@
                 "type": "text",
                 "maxlength": "150",
                 "placeholder": "Aqui va la cosa"
-            },
+            }
+        },
+        {
             "numerico": {
                 "type": "number",
                 "maxlength": "300",
